@@ -1,1 +1,1 @@
-Mes projets Epitech
+Projets Epitech
